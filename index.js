@@ -62,6 +62,7 @@ $(document).ready(function () {
     $('#thumbnail8').removeClass('thumbnail8');
     $('#thumbnail9').removeClass('thumbnail9');
     $('#thumbnail10').removeClass('thumbnail10');
+    $('#thumbnail11').removeClass('thumbnail11');
     $("a").on('click', function (event) {
         if (this.hash !== "") {
             event.preventDefault();

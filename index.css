@@ -467,6 +467,11 @@ button:focus {
     background-size: cover
 }
 
+.thumbnail11 {
+    background-image: url('11.png');
+    background-size: cover
+}
+
 .hide_background {
     background-image: none !important
 }
